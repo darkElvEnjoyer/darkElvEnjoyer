@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @darkElvEnjoyer
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on cool project
-- 📫 How to reach me dm me or div.andromede@gmail.com
-
 -------------------------- Current Status ☝️🤓 ------------------------
 
 I'm working at Daemonica. Singleplayer adventure experience where you play as Gwendolyn Dynaskaaldia an Londorian detective in a case of recent Daemonica occult rising.
